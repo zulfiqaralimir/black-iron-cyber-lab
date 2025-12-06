@@ -28,3 +28,8 @@ User → Streamlit UI → Python Backend → Detectors → Report
 ## 📦 Installation
 
 ### 1. Clone the repository
+
+
+
+https://chatgpt.com/c/6933b56c-6ca4-8324-b316-1b7577f725a0
+
