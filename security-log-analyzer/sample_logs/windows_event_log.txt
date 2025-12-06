@@ -1,0 +1,11 @@
+EventID 4625: An account failed to log on.
+Subject: Security ID: NULL SID
+Account Name: -
+Failure Reason: Unknown user name or bad password.
+Account For Which Logon Failed: User Name: Administrator
+
+EventID 4688: A new process has been created.
+New Process Name: C:\Windows\System32\cmd.exe
+
+EventID 4672: Special privileges assigned to new logon.
+Account Name: SYSTEM
